@@ -1,6 +1,7 @@
 # d3-react-redux-express
 A demonstration of implementing d3 charts in an isomorphic react-redux application with express js at server. The application is bundled with webpack. 
 
+CSS framework is Bootstrap JS and the Material theme is implemented with https://bootswatch.com/paper/
 
 
 
