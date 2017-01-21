@@ -4,4 +4,4 @@ A demonstration of implementing d3 charts in an isomorphic react-redux applicati
 
 
 
-![Alt text](https://github.com/AjithJosephThomas/d3-react-redux-express/blob/master/screenshot.jpg"Application screen shot")
+![image](https://github.com/AjithJosephThomas/d3-react-redux-express/blob/master/screenshot.jpg" Application screen shot")
