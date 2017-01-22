@@ -13,7 +13,7 @@ Functionality:
 
 4) User selects the chart type and chart source and clicks 'Draw' button.
 
-5) REST call to  http://localhost:8000/api/chart//</charttype/>///</chartsource/>/ will load the data to render the corresponding chart. The data from the source is loaded and formatted as required by NVD3 to render the corresponding chart by the server.
+5) REST call to  http://localhost:8000/api/chart/\<\charttype\>\/\<\chartsource\>\ will load the data to render the corresponding chart. The data from the source is loaded and formatted as required by NVD3 to render the corresponding chart by the server.
 
 6) The Client renders the chart on successful service call.
 
